@@ -5,25 +5,6 @@
     You need to install Some JSON Viewer Extension For your browser, Like Google Chrome or Firefox Mozilla or Your Preferred Browser
 
     Open http://yourhost.al/Main.php even everything is Automatic
-    
-# Clappr Player Plus Contains
-    Screenshot Capture
-    Playback Rate
-    Chromecast Player
-    Quality Selector if Source is Multi Links
-    Share Embed Code Generator
-
-# JW Player Plus Contains
-    Build On Version 8.16.3
-    Flexible Player Body
-    Automatic Source Playing Without type="video/mp4 or Another Tags"
-    Demo MP4 Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_8_Flexible_Demo
-    MP4 Player Get Source From https://vudeo.net/0cvk1xbb99fq.html You can add ?url= + any vudeo.net video url
-    Demo HLS Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_Plus.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
-    Offline Plugins
-    Offline Skins (Total 12 Skins)
-    Quality Selector if Source is Multi Links
-    Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email!
 
 GET STREAMS FROM https://www.zee5.com/livetv
 
@@ -48,3 +29,21 @@ GET STREAMS FROM https://www.zee5.com/livetv
 	http://localhost/APIS/Xtream_Codes_Api.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
 	http://localhost/APIS/Clappr_Player_Api.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
 
+# Clappr Player Plus Contains
+    Screenshot Capture
+    Playback Rate
+    Chromecast Player
+    Quality Selector if Source is Multi Links
+    Share Embed Code Generator
+
+# JW Player Plus Contains
+    Build On Version 8.16.3
+    Flexible Player Body
+    Automatic Source Playing Without type="video/mp4 or Another Tags"
+    Demo MP4 Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_8_Flexible_Demo
+    MP4 Player Get Source From https://vudeo.net/0cvk1xbb99fq.html You can add ?url= + any vudeo.net video url
+    Demo HLS Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_Plus.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
+    Offline Plugins
+    Offline Skins (Total 12 Skins)
+    Quality Selector if Source is Multi Links
+    Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email!
