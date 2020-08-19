@@ -18,6 +18,7 @@
     Flexible Player Body
     Automatic Source Playing Without type="video/mp4 or Another Tags"
     Demo MP4 Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_8_Flexible_Demo
+    MP4 Player Get Source From https://vudeo.net/0cvk1xbb99fq.html You can add ?url= + any vudeo.net video url
     Demo HLS Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_Plus.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
     Offline Plugins
     Offline Skins (Total 12 Skins)
