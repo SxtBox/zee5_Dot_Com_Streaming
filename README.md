@@ -19,7 +19,7 @@ GET STREAMS FROM https://www.zee5.com/livetv
 
     EXAMPLE CLEARED LINK https://z5ams.akamaized.net/andflix/index.m3u8
 
-    Support for Clappr Player, Xtream Codes Panel, Kodi, VLC, SMART TV ETC
+    Support: M3U8/VLC/KODI/SMART TV/XTream Codes/Web Players
 
     GET => /APIS/Every Php File.php + ?url= + EXAMPLE CLEARED LINK
 
