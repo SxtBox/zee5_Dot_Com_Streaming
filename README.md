@@ -1,3 +1,8 @@
+#
+# For Many Reasons the API Has Returned To The Hosted Version
+#
+# BIG UPDATES https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis
+#
     ┌─────────────────────────────────────────────────────────────┐
     |  For More Modules Or Updates Stay Connected to Kodi dot AL  |
     └─────────────────────────────────────────────────────────────┘
@@ -17,9 +22,7 @@
     │ Created   │ 22 June 2020                                    │
     │ Modified  │ 18 August 2020                                  │
     └─────────────────────────────────────────────────────────────┘
-
-
-# BIG UPDATES https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis
+#
 
 # zee5 Dot Com Streaming
 
@@ -40,12 +43,7 @@ GET STREAMS FROM https://www.zee5.com/livetv
 
     EXAMPLE CLEARED LINK https://z5ams.akamaized.net/andflix/index.m3u8
 
-    Support: M3U8/VLC/KODI/SMART TV/XTream Codes/Web Players
-
     GET => /APIS/Every Php File.php + ?url= + EXAMPLE CLEARED LINK
-
-# EXAMPLES:
-#    For Many Reasons the API Has Returned To The Hosted Version
 
 # Clappr Player Plus Contains
     Screenshot Capture
