@@ -30,8 +30,8 @@
 
     Open http://yourhost.al/Main.php even everything is Automatic
 
-GET STREAMS FROM https://www.zee5.com/livetv
-#
+# HOW TO GET STREAMS?
+
     TO GET M3U GO TO https://www.zee5.com/livetv
 
     OPEN SOME URL GRABBER AND COPY M3U8 LINK WITH TOKEN
