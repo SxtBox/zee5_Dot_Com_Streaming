@@ -45,10 +45,7 @@ GET STREAMS FROM https://www.zee5.com/livetv
     GET => /APIS/Every Php File.php + ?url= + EXAMPLE CLEARED LINK
 
 # EXAMPLES:
-	http://localhost/APIS/Get_Streams.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
-	http://localhost/APIS/Kodi_Api.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
-	http://localhost/APIS/Xtream_Codes_Api.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
-	http://localhost/APIS/Clappr_Player_Api.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
+#    For Many Reasons the API Has Returned To The Hosted Version
 
 # Clappr Player Plus Contains
     Screenshot Capture
