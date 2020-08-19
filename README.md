@@ -30,7 +30,7 @@
 # Hosted CDN APIS
     https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis
 #
-# zee5 Dot Com Streaming
+# JSON Viewer
 
     You need to install Some JSON Viewer Extension For your browser, Like Google Chrome or Firefox Mozilla or Your Preferred Browser
 
