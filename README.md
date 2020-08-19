@@ -13,6 +13,15 @@
     Quality Selector if Source is Multi Links
     Share Embed Code Generator
 
+# JW Player Plus Contains
+    Build On Version 8.16.3
+    Flexible Player Body
+    Automatic Source Playing Without type="video/mp4 or Another Tags"
+    Offline Plugins
+    Offline Skins (Total 12 Skins)
+    Quality Selector if Source is Multi Links
+    Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email
+
 GET STREAMS FROM https://www.zee5.com/livetv
 
     TO GET M3U GO TO https://www.zee5.com/livetv
