@@ -17,7 +17,7 @@
     │ Created   │ 22 June 2020                                    │
     │ Modified  │ 18 August 2020                                  │
     └─────────────────────────────────────────────────────────────┘
-#
+
 # Hosted APIS Info
     For Many Reasons the APIS PHP Files Has Returned To Hosted CDN
 
@@ -29,9 +29,9 @@
     You need to install Some JSON Viewer Extension For your browser, Like Google Chrome or Firefox Mozilla or Your Preferred Browser
 
     Open http://yourhost.al/Main.php even everything is Automatic
-#
-GET STREAMS FROM https://www.zee5.com/livetv
 
+GET STREAMS FROM https://www.zee5.com/livetv
+#
     TO GET M3U GO TO https://www.zee5.com/livetv
 
     OPEN SOME URL GRABBER AND COPY M3U8 LINK WITH TOKEN
@@ -44,14 +44,14 @@ GET STREAMS FROM https://www.zee5.com/livetv
     EXAMPLE CLEARED LINK https://z5ams.akamaized.net/andflix/index.m3u8
 
     GET => /APIS/Every Php File.php + ?url= + EXAMPLE CLEARED LINK
-#
+
 # Clappr Player Plus Contains
     Screenshot Capture
     Playback Rate
     Chromecast Player
     Quality Selector if Source is Multi Links
     Share Embed Code Generator
-#
+
 # JW Player Plus Contains
     Build On Version 8.16.3
     Flexible Player Body
@@ -63,6 +63,6 @@ GET STREAMS FROM https://www.zee5.com/livetv
     Offline Skins (Total 12 Skins)
     Quality Selector if Source is Multi Links
     Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email!
-#
+
 # INFO
     Coming Soon Links Extractor And Build All in One M3U Playlist
