@@ -1,6 +1,6 @@
-#
-# For Many Reasons the API Has Returned To The Hosted Version
-#
+
+# For Many Reasons the APIS Files Has Returned To Hosted Version
+
 # BIG UPDATES https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis
 #
     ┌─────────────────────────────────────────────────────────────┐
@@ -22,7 +22,6 @@
     │ Created   │ 22 June 2020                                    │
     │ Modified  │ 18 August 2020                                  │
     └─────────────────────────────────────────────────────────────┘
-#
 
 # zee5 Dot Com Streaming
 
