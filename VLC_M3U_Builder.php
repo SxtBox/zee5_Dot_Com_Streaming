@@ -5,20 +5,20 @@
  |  For More Modules Or Updates Stay Connected to Kodi dot AL  |
  +-------------------------------------------------------------+
  +-------------------------------------------------------------+
- ¦ Product   ¦ zee5.com Stream Extractor By HLS Url            ¦
- ¦ Version   ¦ v1.4-DEV                                        ¦
- ¦ Provider  ¦ https://www.zee5.com                            ¦
- ¦ Support   ¦ M3U8/VLC/KODI/SMART TV/XTream Codes/Web Players ¦
- ¦ Licence   ¦ MIT                                             ¦
- ¦ Author    ¦ Olsion Bakiaj                                   ¦
- ¦ Email     ¦ TRC4@USA.COM                                    ¦
- ¦ Author    ¦ Endrit Pano                                     ¦
- ¦ Email     ¦ INFO@ALBDROID.AL                                ¦
- ¦ Website   ¦ https://kodi.al                                 ¦
- ¦ Facebook  ¦ /albdroid.official/                             ¦
- ¦ Github    ¦ github.com/SxtBox/                              ¦
- ¦ Created   ¦ 18 August 2020                                  ¦
- ¦ Modified  ¦ 0000:00:00:ss                                   ¦
+ Â¦ Product   Â¦ zee5.com Stream Extractor By HLS Url            Â¦
+ Â¦ Version   Â¦ v1.4-DEV                                        Â¦
+ Â¦ Provider  Â¦ https://www.zee5.com                            Â¦
+ Â¦ Support   Â¦ M3U8/VLC/KODI/SMART TV/XTream Codes/Web Players Â¦
+ Â¦ Licence   Â¦ MIT                                             Â¦
+ Â¦ Author    Â¦ Olsion Bakiaj                                   Â¦
+ Â¦ Email     Â¦ TRC4@USA.COM                                    Â¦
+ Â¦ Author    Â¦ Endrit Pano                                     Â¦
+ Â¦ Email     Â¦ INFO@ALBDROID.AL                                Â¦
+ Â¦ Website   Â¦ https://kodi.al                                 Â¦
+ Â¦ Facebook  Â¦ /albdroid.official/                             Â¦
+ Â¦ Github    Â¦ github.com/SxtBox/                              Â¦
+ Â¦ Created   Â¦ 18 August 2020                                  Â¦
+ Â¦ Modified  Â¦ 0000:00:00:ss                                   Â¦
  +-------------------------------------------------------------+
 */
 
