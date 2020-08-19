@@ -62,3 +62,6 @@ GET STREAMS FROM https://www.zee5.com/livetv
     Offline Skins (Total 12 Skins)
     Quality Selector if Source is Multi Links
     Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email!
+
+# INFO
+    Coming Soon Links Extractor And Build All in One M3U Playlist
