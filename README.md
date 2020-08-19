@@ -14,7 +14,7 @@
     │ Website   │ https://kodi.al                                 │
     │ Facebook  │ /albdroid.official/                             │
     │ Github    │ github.com/SxtBox/                              │
-    │ Created   │ 11 August 2020                                  │
+    │ Created   │ 22 June 2020                                    │
     │ Modified  │ 18 August 2020                                  │
     └─────────────────────────────────────────────────────────────┘
 
