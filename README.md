@@ -17,6 +17,7 @@
     Build On Version 8.16.3
     Flexible Player Body
     Automatic Source Playing Without type="video/mp4 or Another Tags"
+    Demo MP4 Player https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_8_Flexible_Demo
     Offline Plugins
     Offline Skins (Total 12 Skins)
     Quality Selector if Source is Multi Links
