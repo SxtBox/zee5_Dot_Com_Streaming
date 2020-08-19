@@ -1,5 +1,5 @@
-
-# For Many Reasons the APIS Files Has Returned To Hosted Version
+# Hosted APIS
+    For Many Reasons the APIS PHP Files Has Returned To Hosted CDN
 
 # BIG UPDATES https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis
 #
