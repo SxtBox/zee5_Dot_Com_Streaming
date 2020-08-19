@@ -21,7 +21,7 @@
     Offline Plugins
     Offline Skins (Total 12 Skins)
     Quality Selector if Source is Multi Links
-    Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email
+    Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email!
 
 GET STREAMS FROM https://www.zee5.com/livetv
 
