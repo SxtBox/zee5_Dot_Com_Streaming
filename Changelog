@@ -1,21 +1,26 @@
 Zee5 Dot Com Streaming AIO API
 
+V1.0
 [22 June 2020]
 initial version
 
+V1.1
 [11 August 2020]
 Added Free/Plus
 
+V1.2
 [16 August 2020]
 Added Xtream Codes API
 Added Kodi API
 Fixed Some Bugs
 
+V1.3
 [17 August 2020]
 Fixed API Token Errors
 Added Main.php as Index
 Separation Player Free/Plus
 
+V1.4
 [18 August 2020]
 Added JW Player Plus
 Added Kodi XML Builder
@@ -23,5 +28,11 @@ Added Kodi M3U Builder
 Added VLC M3U Builder
 Rebuild All APIS Structure
 
-[19 August 2020]
+V1.5
+[20 August 2020]
 Added JW Player Free
+Added JW Player Plus API
+Added Clappr Player Plus Embed Generator
+Added Clappr Player Free Embed Generator
+Added JW Player Plus Embed Generator
+Added JW Player Free Embed Generator
