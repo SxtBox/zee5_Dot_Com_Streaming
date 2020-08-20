@@ -2,11 +2,10 @@
     |  For More Modules Or Updates Stay Connected to Kodi dot AL  |
     └─────────────────────────────────────────────────────────────┘
     ┌───────────┬─────────────────────────────────────────────────┐
-    │ Product   │ zee5.com Stream Extractor By HLS Url            │
-    │ Version   │ v1.4-DEV                                        │
-    │ Provider  │ https://www.zee5.com                            │
+    │ Product   │ Zee5 Dot Com Streaming AIO APIS                 │
+    │ Get From  │ https://www.zee5.com                            │
+    │ API Host  │ https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis │
     │ Support   │ M3U8/VLC/KODI/SMART TV/XTream Codes/Web Players │
-    │ Licence   │ MIT                                             │
     │ Author    │ Olsion Bakiaj                                   │
     │ Email     │ TRC4@USA.COM                                    │
     │ Author    │ Endrit Pano                                     │
@@ -14,8 +13,7 @@
     │ Website   │ https://kodi.al                                 │
     │ Facebook  │ /albdroid.official/                             │
     │ Github    │ github.com/SxtBox/                              │
-    │ Created   │ 22 June 2020                                    │
-    │ Modified  │ 18 August 2020                                  │
+    │ Regex GUI │ https://regex.kodi.al                           │
     └─────────────────────────────────────────────────────────────┘
 
 # Hosted APIS Info
