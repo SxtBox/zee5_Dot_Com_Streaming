@@ -6,7 +6,7 @@ initial version
 
 V1.1
 [11 August 2020]
-Added Free/Plus
+Added Clappr Player Free/Plus
 
 V1.2
 [16 August 2020]
@@ -18,7 +18,7 @@ V1.3
 [17 August 2020]
 Fixed API Token Errors
 Added Main.php as Index
-Separation Player Free/Plus
+Separation Players as Free/Plus
 
 V1.4
 [18 August 2020]
@@ -36,3 +36,7 @@ Added Clappr Player Plus Embed Generator
 Added Clappr Player Free Embed Generator
 Added JW Player Plus Embed Generator
 Added JW Player Free Embed Generator
+
+V1.6
+[23 August 2020]
+Added Stream Player PRO
