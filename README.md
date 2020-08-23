@@ -49,6 +49,9 @@
 
     GET => /APIS/Every Php File.php + ?url= + EXAMPLE CLEARED LINK
 
+# Stream Player PRO
+    Stream Player PRO
+
 # Clappr Player Plus Contains
     Screenshot Capture
     Playback Rate
