@@ -1,3 +1,8 @@
+# NOTE
+    Some of you are streaming from these apis, all servers ips are filtered
+    these are only demos and streaming is not allowed for xtream codes panels or any android apps for your clients,
+    if you are interested to streaming you can buy them and put them on your server!!!
+#
     ┌─────────────────────────────────────────────────────────────┐
     |  For More Modules Or Updates Stay Connected to Kodi dot AL  |
     └─────────────────────────────────────────────────────────────┘
