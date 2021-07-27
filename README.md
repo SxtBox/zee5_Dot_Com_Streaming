@@ -76,5 +76,5 @@
     Quality Selector if Source is Multi Links
     Sharing Controls, Activated are facebook, twitter, tumblr, googleplus, reddit linkedin, interest, email!
 
-# INFO
-    Coming Soon Links Extractor And Build All in One M3U Playlist
+# All in One M3U Playlist
+    https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Live_TV_Playlist/
