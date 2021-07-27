@@ -78,3 +78,11 @@
 
 # All in One M3U Playlist
     https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Live_TV_Playlist/
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/Building_PHP.png?raw=true?)
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/Kodi_Test.png?raw=true?)
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/VLC_TEST.png?raw=true?)
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/VLC_TEST1.png?raw=true?)
