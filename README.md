@@ -86,3 +86,9 @@
 ![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/VLC_TEST.png?raw=true?)
 
 ![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/VLC_TEST1.png?raw=true?)
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/KODI_PLAYER_1.png?raw=true?)
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/KODI_PLAYER_2.png?raw=true?)
+
+![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/PICS/Live_TV_Playlist/KODI_PLAYER_3.png?raw=true?)
