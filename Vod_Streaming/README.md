@@ -1,5 +1,6 @@
 # Vod Streaming Data
-    https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Vod_Streaming/
+    Main API https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Vod_Streaming
+    Advanced https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Vod_Streaming?help
 
 ![Logo](https://github.com/SxtBox/zee5_Dot_Com_Streaming/blob/master/Vod_Streaming/Screenshots/CLAPPR_PLAYER_MAIN.png?raw=true?)
 
