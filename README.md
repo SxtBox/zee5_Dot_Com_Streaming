@@ -1,36 +1,9 @@
-# NOTE
-    Some of you are streaming from these apis, all servers ips are filtered
-    these are only demos and streaming is not allowed for xtream codes panels or any android apps for your clients,
-    if you are interested to streaming you can buy them and put them on your server!!!
-#
-    ┌─────────────────────────────────────────────────────────────┐
-    |  For More Modules Or Updates Stay Connected to Kodi dot AL  |
-    └─────────────────────────────────────────────────────────────┘
-    ┌───────────┬─────────────────────────────────────────────────┐
-    │ Product   │ Zee5 Dot Com Streaming AIO APIS                 │
-    │ Get From  │ https://www.zee5.com                            │
-    │ API Host  │ https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis │
-    │ Support   │ M3U8/VLC/KODI/SMART TV/XTream Codes/Web Players │
-    │ Author    │ Olsion Bakiaj                                   │
-    │ Email     │ TRC4@USA.COM                                    │
-    │ Author    │ Endrit Pano                                     │
-    │ Email     │ INFO@ALBDROID.AL                                │
-    │ Website   │ https://kodi.al                                 │
-    │ Facebook  │ /albdroid.official/                             │
-    │ Github    │ github.com/SxtBox/                              │
-    │ Regex GUI │ https://regex.kodi.al                           │
-    └─────────────────────────────────────────────────────────────┘
+# API Status
+    MANY OF YOU TRY IN EVERY WAY TO GET STRAMS FROM THIS HOSTED API
+    DO NOT TRY IN VAIN BECAUSE YOU WILL NEVER BE ABLE TO PLAY WITH ME
+    EVERYTHING IS FILTERED, LOST TIME FOR YOU DUDE.
 
-# Hosted APIS Info
-    For Many Reasons the APIS PHP Files Has Returned To Hosted CDN
-    I SEE SOME OF YOU SELLING MY PHP CODES  WITH VERY HIGH PRICE FROM 90€ TO 200€ EVEN IF THEY ARE CREATOR,
-    I DO NOT LIKE THIS, IF YOU WANT TO GET ORIGINAL CODE AND WITH LOW PRICES JUST CONTACT ME
-    A MOTHER FUCKER OFFERED ME THESE PHP CODE WITH 100 EUROS PER PHP FILE,
-    BUT DIDN'T THINK THAT THE CODE THAT IS ON GITHUB IS LINKED TO MY SERVER,
-    THIS IT'S VERY FUNNY.
-    IF SOMEONE DECRYPT SOME PHP FILES DOES NOT MEAN IT IS THE AUTHOR, ENOUGH!!!
-
-# Hosted CDN APIS
+# Hosted APIS
     https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis
 #
 # JSON Viewer
@@ -42,16 +15,12 @@
 # HOW TO GET STREAMS?
 
     TO GET M3U GO TO https://www.zee5.com/livetv
-
     OPEN SOME URL GRABBER AND COPY M3U8 LINK WITH TOKEN
-
     EXAMPLE: https://z5ams.akamaized.net/andflix/tracks-v1a1/exp=1592868159~acl=%2f*~data=hdntl~hmac=09dc81b9793edea66e870f4a5653156241c3cdf508f5c52c32a0025edd7b7b5f/mono.m3u8
-
     FROM LINK REMOVE ALL STRINGS LEAVE ONLY https://z5ams.akamaized.net/andflix/
     insert index.m3u8 or mono.m3u8 or playlist.m3u8 TO END
 
     EXAMPLE CLEARED LINK https://z5ams.akamaized.net/andflix/index.m3u8
-
     GET => /APIS/Every Php File.php + ?url= + EXAMPLE CLEARED LINK
 
 # Stream Player PRO
