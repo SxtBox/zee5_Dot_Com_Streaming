@@ -10,8 +10,6 @@
 
     You need to install Some JSON Viewer Extension For your browser, Like Google Chrome or Firefox Mozilla or Your Preferred Browser
 
-    Open http://yourhost.al/Main.php even everything is Automatic
-
 # HOW TO GET STREAMS?
 
     TO GET M3U GO TO https://www.zee5.com/livetv
